@@ -1,0 +1,18 @@
+# MUF Calculator - Python Dependencies
+# Python 3.10+ required
+
+# Web Framework
+streamlit~=1.30.0
+
+# Data Processing
+pandas~=1.5.0
+numpy~=1.24.0
+
+# Visualization
+matplotlib~=3.6.0
+
+# HTTP Requests (NOAA Space Weather API)
+requests~=2.28.0
+
+# Grid Locator Support (uncomment if using external library)
+# maidenhead~=1.7.0
